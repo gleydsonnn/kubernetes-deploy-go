@@ -6,7 +6,7 @@ import (
 	"log"
 )
 
-const webContent = " Partiu natação amor.... kkkk  ᕙ༼*◕_◕*༽ᕤ "
+const webContent = " Vamos crescer ... ᕙ༼*◕_◕*༽ᕤ "
 
 
 func main() {
