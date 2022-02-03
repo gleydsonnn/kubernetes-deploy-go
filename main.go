@@ -8,11 +8,10 @@ import (
 
 const webContent = "Olá mundo! Vamos crescer Sila e Lage kkkkkk
 
-_/﹋\_
-(҂`_´)
-<,︻╦╤─ ҉ - -
-_/﹋\_
-
+ /﹋\
+(`_´)
+<,︻╦╤─  - -
+/﹋\
 
 "
 
