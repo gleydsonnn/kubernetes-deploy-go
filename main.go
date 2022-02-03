@@ -6,7 +6,13 @@ import (
 	"log"
 )
 
-const webContent = " ᕙ༼*◕_◕*༽ᕤ "
+const webContent = " \
+ᕙ༼*◕_◕*༽ᕤ \
+ᕙ༼*◕_◕*༽ᕤ \
+ᕙ༼*◕_◕*༽ᕤ \
+ᕙ༼*◕_◕*༽ᕤ \
+ᕙ༼*◕_◕*༽ᕤ \
+ᕙ༼*◕_◕*༽ᕤ "
 
 
 func main() {
