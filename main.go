@@ -11,9 +11,7 @@ const webContent = "Olá mundo! Vamos crescer Sila e Lage kkkkkk
 
 (`_´)
 <,︻╦╤─  - -
-/﹋\
-
-"
+/﹋\"
 
 func main() {
 	http.HandleFunc("/", helloHandler)
