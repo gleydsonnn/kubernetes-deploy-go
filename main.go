@@ -6,10 +6,7 @@ import (
 	"log"
 )
 
-const webContent = "Olá mundo! Vamos crescer Sila e Lage kkkkk  
-
-
-░░░░▓
+const webContent = "Olá mundo! Vamos crescer Sila e Lage ░░░░▓
 ░░░▓▓
 ░░█▓▓█
 ░██▓▓██
