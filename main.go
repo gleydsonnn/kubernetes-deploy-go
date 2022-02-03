@@ -6,7 +6,7 @@ import (
 	"log"
 )
 
-const webContent = "abra -->  ♥ "
+const webContent = "abra -->  ᕙ༼*◕_◕*༽ᕤ "
 
 func main() {
 	http.HandleFunc("/", helloHandler)
